@@ -1,0 +1,5 @@
+﻿  server.cpp
+C:\02_psu\7 sem\client_server\lab1.1\server\server\server.cpp(38,12): warning C4244: return: преобразование "unsigned long" в "unsigned short", возможна потеря данных
+C:\02_psu\7 sem\client_server\lab1.1\server\server\server.cpp(53,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\02_psu\7 sem\client_server\lab1.1\server\server\server.cpp(184,31): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  server.vcxproj -> C:\02_psu\7 sem\client_server\lab1.1\server\x64\Debug\server.exe
